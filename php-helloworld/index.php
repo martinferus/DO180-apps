@@ -1,3 +1,3 @@
 <?php
-print " what the flipityt Hello, World! php version is " . PHP_VERSION . "\n";
+print " what the flipityt fdorget ti  Hello, World! php version is " . PHP_VERSION . "\n";
 ?>
